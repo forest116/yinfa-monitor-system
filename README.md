@@ -1,5 +1,6 @@
 # yinfa-monitor-system
 Design of non-contact elder monitor based on Raspberry PI and OpenCV
+
 1.PI启动mjpg_streamer
 
 2.服务器启动tcp_pi.py，tcp_pi_pic.py，tcp_android.py
