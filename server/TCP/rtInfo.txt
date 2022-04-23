@@ -1,0 +1,1 @@
+{"timestamp": 1650617162.2311745, "time": "2022.04.22  16:46:02", "smog": "2.35", "invade": 1, "fall": "1", "dementia": 1, "state": 1}
